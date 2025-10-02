@@ -4,4 +4,5 @@ for i in range (0,10):
     else:
         print(i + "little ducks")
 
+print("All the little ducks came back")
 
